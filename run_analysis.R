@@ -1,5 +1,3 @@
-setwd(file.path("C:", "Users", "imad.faik", "Desktop", "getreaddata", "CourseProject"))
-
 # define path below working directory of general files
 path_features <- paste(getwd(),"/getdata-projectfiles-UCI HAR Dataset/UCI HAR Dataset/features.txt",sep="")
 path_activity_labels <- paste(getwd(),"/getdata-projectfiles-UCI HAR Dataset/UCI HAR Dataset/activity_labels.txt",sep="")
