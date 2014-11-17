@@ -71,8 +71,8 @@ colnames(ds)[1] <- "Subject"
 colnames(ds)[2] <- "Activity_name"
 
 ##Creating the files
-#write.table(dataset_select_n,file="dataset.txt",row.name=FALSE)
-#write.table(ds,file="tidy_dataset.txt",row.name=FALSE)
+
+write.table(ds,file="tidy_dataset.txt",row.name=FALSE)
 
 
 
