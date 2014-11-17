@@ -1,6 +1,6 @@
 Progassignment_get
 ==================
-repo for coursera's "getting and reading data" course project.
+repo for coursera's "getting and cleaning data" course project.
 ==================
 
 The repo contains the following files:
